@@ -176,6 +176,7 @@
             this.ProgrammerLabel.Size = new System.Drawing.Size(102, 18);
             this.ProgrammerLabel.TabIndex = 3;
             this.ProgrammerLabel.Text = "Prog Rammer";
+            this.ProgrammerLabel.Visible = false;
             this.ProgrammerLabel.Click += new System.EventHandler(this.label1_Click_1);
             // 
             // CountryNameLabel
@@ -187,6 +188,7 @@
             this.CountryNameLabel.Size = new System.Drawing.Size(129, 16);
             this.CountryNameLabel.TabIndex = 4;
             this.CountryNameLabel.Text = "Country Name Label";
+            this.CountryNameLabel.Visible = false;
             this.CountryNameLabel.Click += new System.EventHandler(this.label1_Click_2);
             // 
             // PhilippinesPictureBox
