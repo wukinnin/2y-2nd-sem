@@ -8,3 +8,13 @@ C:\Users\Admin\Desktop\Flags\Flags\obj\Debug\Flags.csproj.GenerateResource.cache
 C:\Users\Admin\Desktop\Flags\Flags\obj\Debug\Flags.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\Flags\Flags\obj\Debug\Flags.exe
 C:\Users\Admin\Desktop\Flags\Flags\obj\Debug\Flags.pdb
+D:\etc\2nd year 2nd sem\Flags\Flags\bin\Debug\Flags.exe.config
+D:\etc\2nd year 2nd sem\Flags\Flags\bin\Debug\Flags.exe
+D:\etc\2nd year 2nd sem\Flags\Flags\bin\Debug\Flags.pdb
+D:\etc\2nd year 2nd sem\Flags\Flags\obj\Debug\Flags.csproj.AssemblyReference.cache
+D:\etc\2nd year 2nd sem\Flags\Flags\obj\Debug\Flags.Properties.Resources.resources
+D:\etc\2nd year 2nd sem\Flags\Flags\obj\Debug\Flags.csproj.GenerateResource.cache
+D:\etc\2nd year 2nd sem\Flags\Flags\obj\Debug\Flags.csproj.CoreCompileInputs.cache
+D:\etc\2nd year 2nd sem\Flags\Flags\obj\Debug\Flags.exe
+D:\etc\2nd year 2nd sem\Flags\Flags\obj\Debug\Flags.pdb
+D:\etc\2nd year 2nd sem\Flags\Flags\obj\Debug\Flags.flagViewerForm.resources
