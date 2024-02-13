@@ -1,0 +1,30 @@
+D:\BARING, KENJADE\winTemp\winTemp\obj\Debug\winTemp.csproj.AssemblyReference.cache
+D:\BARING, KENJADE\winTemp\winTemp\obj\Debug\winTemp.Form1.resources
+D:\BARING, KENJADE\winTemp\winTemp\obj\Debug\winTemp.Properties.Resources.resources
+D:\BARING, KENJADE\winTemp\winTemp\obj\Debug\winTemp.csproj.GenerateResource.cache
+D:\BARING, KENJADE\winTemp\winTemp\obj\Debug\winTemp.csproj.CoreCompileInputs.cache
+D:\BARING, KENJADE\winTemp\winTemp\bin\Debug\winTemp.exe.config
+D:\BARING, KENJADE\winTemp\winTemp\bin\Debug\winTemp.exe
+D:\BARING, KENJADE\winTemp\winTemp\bin\Debug\winTemp.pdb
+D:\BARING, KENJADE\winTemp\winTemp\obj\Debug\winTemp.exe
+D:\BARING, KENJADE\winTemp\winTemp\obj\Debug\winTemp.pdb
+D:\BARING, KENJADE\6 winTemp\winTemp\bin\Debug\winTemp.exe.config
+D:\BARING, KENJADE\6 winTemp\winTemp\bin\Debug\winTemp.exe
+D:\BARING, KENJADE\6 winTemp\winTemp\bin\Debug\winTemp.pdb
+D:\BARING, KENJADE\6 winTemp\winTemp\obj\Debug\winTemp.csproj.AssemblyReference.cache
+D:\BARING, KENJADE\6 winTemp\winTemp\obj\Debug\winTemp.Form1.resources
+D:\BARING, KENJADE\6 winTemp\winTemp\obj\Debug\winTemp.Properties.Resources.resources
+D:\BARING, KENJADE\6 winTemp\winTemp\obj\Debug\winTemp.csproj.GenerateResource.cache
+D:\BARING, KENJADE\6 winTemp\winTemp\obj\Debug\winTemp.csproj.CoreCompileInputs.cache
+D:\BARING, KENJADE\6 winTemp\winTemp\obj\Debug\winTemp.exe
+D:\BARING, KENJADE\6 winTemp\winTemp\obj\Debug\winTemp.pdb
+D:\gonzaga\C#-1-1\6 winTemp\winTemp\bin\Debug\winTemp.exe.config
+D:\gonzaga\C#-1-1\6 winTemp\winTemp\bin\Debug\winTemp.exe
+D:\gonzaga\C#-1-1\6 winTemp\winTemp\bin\Debug\winTemp.pdb
+D:\gonzaga\C#-1-1\6 winTemp\winTemp\obj\Debug\winTemp.csproj.AssemblyReference.cache
+D:\gonzaga\C#-1-1\6 winTemp\winTemp\obj\Debug\winTemp.Form1.resources
+D:\gonzaga\C#-1-1\6 winTemp\winTemp\obj\Debug\winTemp.Properties.Resources.resources
+D:\gonzaga\C#-1-1\6 winTemp\winTemp\obj\Debug\winTemp.csproj.GenerateResource.cache
+D:\gonzaga\C#-1-1\6 winTemp\winTemp\obj\Debug\winTemp.csproj.CoreCompileInputs.cache
+D:\gonzaga\C#-1-1\6 winTemp\winTemp\obj\Debug\winTemp.exe
+D:\gonzaga\C#-1-1\6 winTemp\winTemp\obj\Debug\winTemp.pdb
