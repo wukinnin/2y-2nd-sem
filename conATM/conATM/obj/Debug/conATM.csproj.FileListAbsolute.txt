@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\conATM\conATM\bin\Debug\conATM.exe.config
+C:\Users\Admin\Desktop\conATM\conATM\bin\Debug\conATM.exe
+C:\Users\Admin\Desktop\conATM\conATM\bin\Debug\conATM.pdb
+C:\Users\Admin\Desktop\conATM\conATM\obj\Debug\conATM.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\conATM\conATM\obj\Debug\conATM.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\conATM\conATM\obj\Debug\conATM.exe
+C:\Users\Admin\Desktop\conATM\conATM\obj\Debug\conATM.pdb
