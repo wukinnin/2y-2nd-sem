@@ -189,7 +189,6 @@ namespace conATM
             while(true)
             {
                 Console.WriteLine("--- Fast Cash Withdrawal ---");
-                Console.WriteLine("");
                 Console.WriteLine("1. 1000");
                 Console.WriteLine("2. 2000");
                 Console.WriteLine("3. 5000");
