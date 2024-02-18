@@ -5,3 +5,10 @@ C:\Users\Admin\Desktop\conATM\conATM\obj\Debug\conATM.csproj.AssemblyReference.c
 C:\Users\Admin\Desktop\conATM\conATM\obj\Debug\conATM.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Desktop\conATM\conATM\obj\Debug\conATM.exe
 C:\Users\Admin\Desktop\conATM\conATM\obj\Debug\conATM.pdb
+D:\etc\2nd year 2nd sem\2y-2nd-sem\conATM\conATM\bin\Debug\conATM.exe.config
+D:\etc\2nd year 2nd sem\2y-2nd-sem\conATM\conATM\bin\Debug\conATM.exe
+D:\etc\2nd year 2nd sem\2y-2nd-sem\conATM\conATM\bin\Debug\conATM.pdb
+D:\etc\2nd year 2nd sem\2y-2nd-sem\conATM\conATM\obj\Debug\conATM.csproj.AssemblyReference.cache
+D:\etc\2nd year 2nd sem\2y-2nd-sem\conATM\conATM\obj\Debug\conATM.csproj.CoreCompileInputs.cache
+D:\etc\2nd year 2nd sem\2y-2nd-sem\conATM\conATM\obj\Debug\conATM.exe
+D:\etc\2nd year 2nd sem\2y-2nd-sem\conATM\conATM\obj\Debug\conATM.pdb
