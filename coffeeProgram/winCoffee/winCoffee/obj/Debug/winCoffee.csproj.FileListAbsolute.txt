@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\TARONGOY\winCoffee\winCoffee\obj\Debug\winCoffee.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TARONGOY\winCoffee\winCoffee\obj\Debug\winCoffee.coffeeForm.resources
+C:\Users\Admin\Desktop\TARONGOY\winCoffee\winCoffee\obj\Debug\winCoffee.Properties.Resources.resources
+C:\Users\Admin\Desktop\TARONGOY\winCoffee\winCoffee\obj\Debug\winCoffee.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\TARONGOY\winCoffee\winCoffee\obj\Debug\winCoffee.csproj.CoreCompileInputs.cache
+D:\etc\2nd year 2nd sem\2y-2nd-sem\coffeeProgram\winCoffee\winCoffee\bin\Debug\winCoffee.exe.config
+D:\etc\2nd year 2nd sem\2y-2nd-sem\coffeeProgram\winCoffee\winCoffee\bin\Debug\winCoffee.exe
+D:\etc\2nd year 2nd sem\2y-2nd-sem\coffeeProgram\winCoffee\winCoffee\bin\Debug\winCoffee.pdb
+D:\etc\2nd year 2nd sem\2y-2nd-sem\coffeeProgram\winCoffee\winCoffee\obj\Debug\winCoffee.csproj.AssemblyReference.cache
+D:\etc\2nd year 2nd sem\2y-2nd-sem\coffeeProgram\winCoffee\winCoffee\obj\Debug\winCoffee.coffeeForm.resources
+D:\etc\2nd year 2nd sem\2y-2nd-sem\coffeeProgram\winCoffee\winCoffee\obj\Debug\winCoffee.Properties.Resources.resources
+D:\etc\2nd year 2nd sem\2y-2nd-sem\coffeeProgram\winCoffee\winCoffee\obj\Debug\winCoffee.csproj.GenerateResource.cache
+D:\etc\2nd year 2nd sem\2y-2nd-sem\coffeeProgram\winCoffee\winCoffee\obj\Debug\winCoffee.csproj.CoreCompileInputs.cache
+D:\etc\2nd year 2nd sem\2y-2nd-sem\coffeeProgram\winCoffee\winCoffee\obj\Debug\winCoffee.exe
+D:\etc\2nd year 2nd sem\2y-2nd-sem\coffeeProgram\winCoffee\winCoffee\obj\Debug\winCoffee.pdb

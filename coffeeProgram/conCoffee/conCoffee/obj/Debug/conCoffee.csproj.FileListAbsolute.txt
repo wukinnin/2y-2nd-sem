@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\TARONGOY\conCoffee\conCoffee\bin\Debug\conCoffee.exe.config
+C:\Users\Admin\Desktop\TARONGOY\conCoffee\conCoffee\bin\Debug\conCoffee.exe
+C:\Users\Admin\Desktop\TARONGOY\conCoffee\conCoffee\bin\Debug\conCoffee.pdb
+C:\Users\Admin\Desktop\TARONGOY\conCoffee\conCoffee\obj\Debug\conCoffee.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TARONGOY\conCoffee\conCoffee\obj\Debug\conCoffee.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TARONGOY\conCoffee\conCoffee\obj\Debug\conCoffee.exe
+C:\Users\Admin\Desktop\TARONGOY\conCoffee\conCoffee\obj\Debug\conCoffee.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\TARONGOY\conConversion\conConversion\bin\Debug\conConversion.exe.config
+C:\Users\Admin\Desktop\TARONGOY\conConversion\conConversion\bin\Debug\conConversion.exe
+C:\Users\Admin\Desktop\TARONGOY\conConversion\conConversion\bin\Debug\conConversion.pdb
+C:\Users\Admin\Desktop\TARONGOY\conConversion\conConversion\obj\Debug\conConversion.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TARONGOY\conConversion\conConversion\obj\Debug\conConversion.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TARONGOY\conConversion\conConversion\obj\Debug\conConversion.exe
+C:\Users\Admin\Desktop\TARONGOY\conConversion\conConversion\obj\Debug\conConversion.pdb
