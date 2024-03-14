@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winShapeGonzaga", "winShapeGonzaga\winShapeGonzaga.csproj", "{181E92B6-507A-48D6-A547-898102BF11B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{181E92B6-507A-48D6-A547-898102BF11B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{181E92B6-507A-48D6-A547-898102BF11B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{181E92B6-507A-48D6-A547-898102BF11B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{181E92B6-507A-48D6-A547-898102BF11B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D75B8040-6241-4EF9-99B1-2524CA9805C6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\winShapeGonzaga\winShapeGonzaga\bin\Debug\winShapeGonzaga.exe.config
+C:\Users\Admin\Desktop\winShapeGonzaga\winShapeGonzaga\bin\Debug\winShapeGonzaga.exe
+C:\Users\Admin\Desktop\winShapeGonzaga\winShapeGonzaga\bin\Debug\winShapeGonzaga.pdb
+C:\Users\Admin\Desktop\winShapeGonzaga\winShapeGonzaga\obj\Debug\winShapeGonzaga.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\winShapeGonzaga\winShapeGonzaga\obj\Debug\winShapeGonzaga.Form1.resources
+C:\Users\Admin\Desktop\winShapeGonzaga\winShapeGonzaga\obj\Debug\winShapeGonzaga.Properties.Resources.resources
+C:\Users\Admin\Desktop\winShapeGonzaga\winShapeGonzaga\obj\Debug\winShapeGonzaga.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\winShapeGonzaga\winShapeGonzaga\obj\Debug\winShapeGonzaga.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\winShapeGonzaga\winShapeGonzaga\obj\Debug\winShapeGonzaga.exe
+C:\Users\Admin\Desktop\winShapeGonzaga\winShapeGonzaga\obj\Debug\winShapeGonzaga.pdb
