@@ -1,0 +1,11 @@
+C:\Users\WW837\Desktop\16apr\16apr\bin\Debug\16apr.exe.config
+C:\Users\WW837\Desktop\16apr\16apr\bin\Debug\16apr.exe
+C:\Users\WW837\Desktop\16apr\16apr\bin\Debug\16apr.pdb
+C:\Users\WW837\Desktop\16apr\16apr\obj\Debug\16apr.csproj.AssemblyReference.cache
+C:\Users\WW837\Desktop\16apr\16apr\obj\Debug\_16apr.frmLogin.resources
+C:\Users\WW837\Desktop\16apr\16apr\obj\Debug\_16apr.Properties.Resources.resources
+C:\Users\WW837\Desktop\16apr\16apr\obj\Debug\16apr.csproj.GenerateResource.cache
+C:\Users\WW837\Desktop\16apr\16apr\obj\Debug\16apr.csproj.CoreCompileInputs.cache
+C:\Users\WW837\Desktop\16apr\16apr\obj\Debug\16apr.exe
+C:\Users\WW837\Desktop\16apr\16apr\obj\Debug\16apr.pdb
+C:\Users\WW837\Desktop\16apr\16apr\obj\Debug\_16apr.frmMain.resources
